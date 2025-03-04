@@ -20,9 +20,9 @@
 # LISTA DE COMPREENSÃO
 #nova_lista_de_roupas = [expressão for elemento in sequencia if condição]
 #exemplo:
-numeros_de_lojas = [25, 1 , 8 , 0 ,6] # impares menos o numero 25
-quadrados_das_lojas = [x ** 2 for x in numeros_de_lojas if x % 2 == 0]
-print(quadrados_das_lojas) #imprime [6 , 2] 
+#numeros_de_lojas = [25, 1 , 8 , 0 ,6] # impares menos o numero 25
+#quadrados_das_lojas = [x ** 2 for x in numeros_de_lojas if x % 2 == 0]
+#print(quadrados_das_lojas) #imprime [6 , 2] 
 # ele imprime os outros numeros de outras lojas nesse bairro que são numeros de 64, 0, 36 sao numeros pares
 # numeros das lojas mas distante das outras lojas perto desse bairro
 # que sao os numeros 25 , 1, 8, 0 ,6
